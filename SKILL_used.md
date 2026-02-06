@@ -1,0 +1,37 @@
+# SKILL 使用记录
+
+- 2026-02-01：doc-coauthoring：用于撰写《需求分析.md》《软件设计书.md》《任务书.md》三份项目文档。
+- 2026-02-01：SKILL-Orchestrator：用于将“每轮对话先调用 Orchestrator”固化为工作区规则并执行编排。
+- 2026-02-01：SKILL-Orchestrator：用于本轮 M0/M1 落地（规则检查、任务拆解与执行顺序编排）。
+- 2026-02-01：SKILL-Orchestrator：用于本轮 docs 更新（新增视觉语言模型清单与 VLM+LLM 联合理解说明）。
+- 2026-02-01：SKILL-Orchestrator：用于本轮 M2 落地（实现故事整理脚本、缓存策略与验收回填）。
+- 2026-02-01：SKILL-Orchestrator：用于本轮 M2 修正（区分离线兜底与真实总结、补齐 VLM+LLM 联合理解管线）。
+- 2026-02-01：SKILL-Orchestrator：用于本轮 M2 实跑（接入真实 API Key，生成 VLM+LLM 故事总结产物并完成验收回填）。
+- 2026-02-01：SKILL-Orchestrator：用于本轮 M2 提示词优化（按视频 2–3 分钟与每段≥20秒约束生成段落）。
+- 2026-02-01：SKILL-Orchestrator：用于本轮配音语速调整（按 3–4 字/秒重算段落长度并重跑总结）。
+- 2026-02-02：SKILL-Orchestrator：用于本轮任务书跟进与 M3 继续推进（生成分镜表 storyboard.json 并完成校验/回填）。
+- 2026-02-02：SKILL-Orchestrator：用于本轮 M3 渲染测试（qwen-image 文生图 + qwen3-tts-flash 配音，并用上一张图做一致性约束）。
+- 2026-02-02：SKILL-Orchestrator：用于本轮 M4 配音重测（切换男声并重跑前 2 镜头音频）。
+- 2026-02-02：SKILL-Orchestrator：用于本轮更低沉男声调整（切换 voice=Vincent 并重跑前 2 镜头配音）。
+- 2026-02-02：SKILL-Orchestrator：用于本轮播报腔偏低调整（切换 voice=Neil，仅重跑配音复用图片）。
+- 2026-02-02：SKILL-Orchestrator：用于本轮 M4 完成（生成 >=3 镜头图与 >=3 段旁白并写入 manifest）。
+- 2026-02-02：SKILL-Orchestrator：用于本轮 M5 推进（生成 bgm.plan.json、下载 BGM 到 assets/bgm 并完成验收回填）。
+- 2026-02-02：SKILL-Orchestrator：用于本轮 M5 校验（新增校验脚本并验证 bgm.plan/manifest/音频 sha256 一致）。
+- 2026-02-02：SKILL-Orchestrator：用于本轮 M6 推进（创建 Remotion 工程、生成 props、合成 3 镜头 MVP mp4 并回填任务书）。
+- 2026-02-02：SKILL-Orchestrator：用于本轮视频设计与脚本制定的技能编排。
+- 2026-02-02：ui-ux-pro-max：用于制定视频视觉设计系统（风格、配色、字体、动效、字幕/下三分之一）。
+- 2026-02-02：prompt-architect：用于将旁白脚本按框架重写（CO-STAR/RISE-IX），统一语气与节奏。
+- 2026-02-02：doc-coauthoring：用于协同产出视频脚本文档（结构/分场景/时长/节奏/混音提示）。
+- 2026-02-02：skill-creator：用于创建本地 Trae Skill：claude-code-interactive-collab（终端交互协作）。
+- 2026-02-04：SKILL-Orchestrator：用于规划“交互式 Claude Code 协作 + 键盘模拟脚本”方案并落地到本地 Skill。
+- 2026-02-04：claude-code-interactive-collab：用于扩展键盘模拟脚本（支持 Down 选择与 PromptFile 自动粘贴）并提供可复现测试脚本。
+- 2026-02-04：claude-code-interactive-collab：用于完善一键协作脚本（进程锁定/一键启动/自动粘贴提示词）并新增端到端可复现测试（Notepad）。
+- 2026-02-04：claude-code-interactive-collab：用于联合 Claude Code 做工作区测试编排（新增 test_workspace_prompt），并补齐“新窗口控制台模式”一键脚本与测试用例。
+- 2026-02-04：claude-code-interactive-collab：按用户要求移除交互式 --ide/键盘模拟脚本，改为仅支持 claude -p 的可审计协作模式。
+- 2026-02-04：claude-code-interactive-collab：用于生成 9461449190 的重写分镜（storyboard_revamp_prompt → claude -p 输出 JSON）并回填到 projects/9461449190/llm/storyboard.json。
+- 2026-02-04：doc-coauthoring：用于重写 docs/需求分析.md 与 docs/软件设计书.md 并与新流水线对齐。
+- 2026-02-04：SKILL-Orchestrator：用于本轮字幕需求变更编排（单行字幕优先）与验证渲染。
+- 2026-02-04：SKILL-Orchestrator：用于本轮字幕规则变更编排（字幕去除逗号句号）与验证渲染。
+- 2026-02-06：SKILL-Orchestrator：用于本轮“2分钟情感短片”提示词与文档改造的编排。
+- 2026-02-06：claude-code-interactive-collab：用于以 claude -p 协作生成提示词模板设计输入与迭代依据。
+- 2026-02-06：claude-code-interactive-collab：用于将 v1 prompt pack 落地到 tools（M2/M3/M5）并完成 2 分钟成片流程验证。

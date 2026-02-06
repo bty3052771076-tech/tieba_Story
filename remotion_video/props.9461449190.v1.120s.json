@@ -1,0 +1,78 @@
+{
+  "scenes": [
+    {
+      "scene_id": 1,
+      "image": "/9461449190/images/scene_001.png",
+      "audio": "/9461449190/audio/scene_001.wav",
+      "duration_s": 12.0,
+      "subtitle": "那年我十四岁，她拿着报纸走进教室，让我们模仿睡觉的姿势。那一刻，我们成了好朋友。"
+    },
+    {
+      "scene_id": 2,
+      "image": "/9461449190/images/scene_002.png",
+      "audio": "/9461449190/audio/scene_002.wav",
+      "duration_s": 12.0,
+      "subtitle": "回家后我总用QQ抖一抖叫她，我们聊家里的事，聊世界末日，甚至聊起她七年的暗恋。"
+    },
+    {
+      "scene_id": 3,
+      "image": "/9461449190/images/scene_003.png",
+      "audio": "/9461449190/audio/scene_003.wav",
+      "duration_s": 12.0,
+      "subtitle": "有次她被学生气哭，我发短信劝她别冲动。后来下大雨，我跑去送伞，那是洒落一身的真情。"
+    },
+    {
+      "scene_id": 4,
+      "image": "/9461449190/images/scene_004.png",
+      "audio": "/9461449190/audio/scene_004.wav",
+      "duration_s": 12.0,
+      "subtitle": "初二分班，我送了她一支钢笔做纪念。虽然还在同校，但每次她来听课坐在我旁边，我都觉得那是偷来的快乐。"
+    },
+    {
+      "scene_id": 5,
+      "image": "/9461449190/images/scene_005.png",
+      "audio": "/9461449190/audio/scene_005.wav",
+      "duration_s": 12.0,
+      "subtitle": "初三那年，我考了全年级唯一的作文满分。她比我还激动，带着我的作文在班里朗读。"
+    },
+    {
+      "scene_id": 6,
+      "image": "/9461449190/images/scene_006.png",
+      "audio": "/9461449190/audio/scene_006.wav",
+      "duration_s": 12.0,
+      "subtitle": "那天她穿着黑色羽绒服来告别。我们在窗边聊了十分钟，最后她张开双臂拥抱了我。"
+    },
+    {
+      "scene_id": 7,
+      "image": "/9461449190/images/scene_007.png",
+      "audio": "/9461449190/audio/scene_007.wav",
+      "duration_s": 12.0,
+      "subtitle": "她没有回头，就这样消失在我的青春里。十四年过去了，我换了QQ号，再也找不到她。"
+    },
+    {
+      "scene_id": 8,
+      "image": "/9461449190/images/scene_008.png",
+      "audio": "/9461449190/audio/scene_008.wav",
+      "duration_s": 12.0,
+      "subtitle": "经历了生活的起伏，我虽未活成她期许的样子，却始终记得她说的“始终如一”。"
+    },
+    {
+      "scene_id": 9,
+      "image": "/9461449190/images/scene_009.png",
+      "audio": "/9461449190/audio/scene_009.wav",
+      "duration_s": 12.0,
+      "subtitle": "那些温暖的瞬间，像电影一样在脑海里回放。那份温柔，成了我对抗世界的铠甲。"
+    },
+    {
+      "scene_id": 10,
+      "image": "/9461449190/images/scene_010.png",
+      "audio": "/9461449190/audio/scene_010.wav",
+      "duration_s": 12.0,
+      "subtitle": "无论身在何方，我都默默祝福她。愿那份始终如一的温暖，也能照亮她的人生。"
+    }
+  ],
+  "bgm": {
+    "src": "/9461449190/bgm/bgm.mp3",
+    "volume": 0.12
+  }
+}

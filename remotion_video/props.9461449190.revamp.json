@@ -1,0 +1,78 @@
+{
+  "scenes": [
+    {
+      "scene_id": 1,
+      "image": "/9461449190/images/scene_001.png",
+      "audio": "/9461449190/audio/scene_001.wav",
+      "duration_s": 8.0,
+      "subtitle": "2011年九月，初一第一节语文课。CC老师拿着张报纸，说要玩个游戏。"
+    },
+    {
+      "scene_id": 2,
+      "image": "/9461449190/images/scene_002.png",
+      "audio": "/9461449190/audio/scene_002.wav",
+      "duration_s": 7.0,
+      "subtitle": "那天放学回家，我加上了她的QQ。之后每天，我们都有聊不完的话。"
+    },
+    {
+      "scene_id": 3,
+      "image": "/9461449190/images/scene_003.png",
+      "audio": "/9461449190/audio/scene_003.wav",
+      "duration_s": 8.0,
+      "subtitle": "初二那年夏天，暴雨突降。我抓起伞就往学校跑，怕她淋雨回家。"
+    },
+    {
+      "scene_id": 4,
+      "image": "/9461449190/images/scene_004.png",
+      "audio": "/9461449190/audio/scene_004.wav",
+      "duration_s": 9.0,
+      "subtitle": "后来她在我的伞上签了这句话。十四年了，我还记得。"
+    },
+    {
+      "scene_id": 5,
+      "image": "/9461449190/images/scene_005.png",
+      "audio": "/9461449190/audio/scene_005.wav",
+      "duration_s": 7.0,
+      "subtitle": "她会让我在办公室午睡。课代表都走了，唯独我留下，她从不赶人。"
+    },
+    {
+      "scene_id": 6,
+      "image": "/9461449190/images/scene_006.png",
+      "audio": "/9461449190/audio/scene_006.wav",
+      "duration_s": 8.0,
+      "subtitle": "有一次英语公开课，她偷偷坐我旁边，把答案写在纸上推给我。我举手回答时，她在远处偷笑。"
+    },
+    {
+      "scene_id": 7,
+      "image": "/9461449190/images/scene_007.png",
+      "audio": "/9461449190/audio/scene_007.wav",
+      "duration_s": 9.0,
+      "subtitle": "初三分班了，我买了支钢笔送她。不是什么贵重礼物，但后来她说，一直留着。"
+    },
+    {
+      "scene_id": 8,
+      "image": "/9461449190/images/scene_008.png",
+      "audio": "/9461449190/audio/scene_008.wav",
+      "duration_s": 8.0,
+      "subtitle": "毕业前，她说要调去很远的学校。我们站在窗边，最后拥抱了一次。"
+    },
+    {
+      "scene_id": 9,
+      "image": "/9461449190/images/scene_009.png",
+      "audio": "/9461449190/audio/scene_009.wav",
+      "duration_s": 7.0,
+      "subtitle": "十四年了。这些聊天记录，我都留着。一千五百五十五页。"
+    },
+    {
+      "scene_id": 10,
+      "image": "/9461449190/images/scene_010.png",
+      "audio": "/9461449190/audio/scene_010.wav",
+      "duration_s": 10.0,
+      "subtitle": "她说，被记得就是幸福。十四年了，CC老师，我始终如一。"
+    }
+  ],
+  "bgm": {
+    "src": "/9461449190/bgm/bgm.mp3",
+    "volume": 0.12
+  }
+}

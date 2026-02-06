@@ -1,0 +1,26 @@
+{
+  "scenes": [
+    {
+      "scene_id": 1,
+      "image": "/9461449190/images/scene_001.png",
+      "audio": "/9461449190/audio/scene_001.wav",
+      "duration_s": 15.0
+    },
+    {
+      "scene_id": 2,
+      "image": "/9461449190/images/scene_002.png",
+      "audio": "/9461449190/audio/scene_002.wav",
+      "duration_s": 18.0
+    },
+    {
+      "scene_id": 3,
+      "image": "/9461449190/images/scene_003.png",
+      "audio": "/9461449190/audio/scene_003.wav",
+      "duration_s": 16.0
+    }
+  ],
+  "bgm": {
+    "src": "/9461449190/bgm/bgm.mp3",
+    "volume": 0.12
+  }
+}
