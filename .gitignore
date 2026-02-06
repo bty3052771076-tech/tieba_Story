@@ -35,6 +35,7 @@ lerna-debug.log*
 
 .DS_Store
 Thumbs.db
+.trae/
 .idea/
 .vscode/*
 !.vscode/extensions.json
